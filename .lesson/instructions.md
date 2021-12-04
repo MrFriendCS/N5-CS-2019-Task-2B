@@ -21,44 +21,20 @@ For a student with the first name David the technician would enter Dav. The prog
 
 ___2a___ Complete the table by filling in the missing input, process and output. __(3 marks)__
 
-<table>
-  <tr>
-    <td>Input</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>Enter the first 3 letters of the student name</td>
-  </tr>
-  <tr>
-    <td>Process</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Check length of partial student name</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Add the partial student name with the randomly generated ending from the stored list</td>
-  </tr>
-  <tr>
-    <td>Output</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td></td>
-  </tr>
-</table>
+|  | Input |
+| :---: | --- |
+| 1 | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | 
+| 2 | Enter the first 3 letters of the student name |
+
+|  | Process |
+| :---: | --- |
+| 1 | Check length of partial student name |
+| 2 | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+| 3 | Add the partial student name with the randomly generated ending from the stored list |
+
+|  | Output |
+| :---| --- |
+| 1 | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
 
 ### Main Steps: Pseudocode
 
