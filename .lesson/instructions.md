@@ -1,4 +1,4 @@
-# N5 CS Task 2B
+# N5 CS 2019 Task 2B
 
 Logan is a technician who has to generate usernames for a school’s Wi-Fi service.
 
